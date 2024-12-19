@@ -1,6 +1,6 @@
 # Домашнее задание №4
 
-В рамках данного домашнего задания требовалось создать архивную коллекцию сайтов, объединенных единой тематикой, используя [`wpull`](https://wpull.readthedocs.io/en/master/), после чего проанализировать собранную коллекцию с помощью [`metawarc`](https://github.com/datacoon/metawarc) и [ArchiveReady](https://archiveready.com/), и наконец опубликовать результат на [`GitHub`](https://github.com/fay-woo/hw_web_archive)
+В рамках данного домашнего задания требовалось создать архивную [коллекцию сайтов](https://drive.google.com/drive/folders/1AWE4GSSuKb8fkNE4D85fcikbeH5XBLLo?usp=sharing), объединенных единой тематикой, используя [`wpull`](https://wpull.readthedocs.io/en/master/), после чего проанализировать собранную коллекцию с помощью [`metawarc`](https://github.com/datacoon/metawarc) и [ArchiveReady](https://archiveready.com/), и наконец опубликовать результат на [`GitHub`](https://github.com/fay-woo/hw_web_archive)
 
 ## Описание
 
